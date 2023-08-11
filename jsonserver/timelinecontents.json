@@ -1,0 +1,137 @@
+{
+  "contents": [
+    {
+      "id": "6cfafe9b-ec34-4fb0-8e89-c2e5e67acfd1",
+      "userid": "admin0125",
+      "username": "Admin01",
+      "content": "Welcome to Proxima! Welcome to Proxima! Welcome to Proxima! Welcome to Proxima! Welcome to Proxima! Welcome to Proxima! Welcome to Proxima! Welcome to Proxima! Welcome to Proxima!",
+      "timestamp": "2023/07/25 12: 34: 56"
+    },
+    {
+      "id": "258f3a3f-d5ea-4e1c-a9ec-7a2de9ab4643",
+      "userid": "user1243",
+      "username": "johndoe",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.\nSed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "timestamp": "2023/07/25 13:45:22"
+    },
+    {
+      "id": "e06c5fb5-eae8-42b8-afc1-73965ffc511a",
+      "userid": "guest",
+      "username": "GUEST",
+      "content": "Hello!",
+      "timestamp": "----------"
+    },
+    {
+      "id": "978593f9-6804-4dcb-ab51-0d865b42c871",
+      "userid": "guest",
+      "username": "GUEST",
+      "content": "Hello!",
+      "timestamp": "----------"
+    },
+    {
+      "id": "4e79aa73-9d8d-41ae-a9ae-0c1379fdfe51",
+      "userid": "guest",
+      "username": "GUEST",
+      "content": "Test",
+      "timestamp": "----------"
+    },
+    {
+      "id": "d5f4a5a7-3eac-4772-b721-de4fb4287e55",
+      "userid": "guest",
+      "username": "GUEST",
+      "content": "Test!",
+      "timestamp": "----------"
+    },
+    {
+      "id": "fa29fe37-dba6-4f14-9443-324a7591d8b9",
+      "userid": "guest",
+      "username": "GUEST",
+      "content": "0125",
+      "timestamp": "----------"
+    },
+    {
+      "id": "c0f6e55c-5d84-477e-9b60-15ca7f8fc281",
+      "userid": "guest",
+      "username": "GUEST",
+      "content": "Hi!",
+      "timestamp": "----------"
+    },
+    {
+      "id": "2b05db04-5de2-4d42-9a76-3d66b3c470a2",
+      "userid": "guest",
+      "username": "GUEST",
+      "content": "投稿したら入力欄の文字消えるようにしなきゃな…",
+      "timestamp": "----------"
+    },
+    {
+      "id": "1c4962ba-2005-4b53-af62-c541c8826f77",
+      "userid": "guest",
+      "username": "GUEST",
+      "content": "Reduxってなんだよ!!",
+      "timestamp": "----------"
+    },
+    {
+      "id": "dac683db-6fdc-484c-9f6b-9fc328ad64e6",
+      "userid": "guest",
+      "username": "GUEST",
+      "content": "いっけぇえええええ！（ポチッ）",
+      "timestamp": "----------"
+    },
+    {
+      "id": "d819863a-a532-4872-953b-44fa0040063d",
+      "userid": "guest",
+      "username": "GUEST",
+      "content": "キテマス(2つ)",
+      "timestamp": "----------"
+    },
+    {
+      "id": "19aedfbb-db97-4bcf-bd04-2691dffbc4c3",
+      "userid": "User0126",
+      "username": "MOJYA",
+      "content": "パソコンの横においた水筒が、排気された風で熱を帯びている。\nでも、君の心は魔法瓶。  いくら温めたって心は冷えたまんま",
+      "timestamp": "----------"
+    },
+    {
+      "id": "caef5ec0-2ee2-4f72-b01a-faee54b568d6",
+      "userid": "guest",
+      "username": "GUEST",
+      "content": "ぷるぷる。僕悪いアーティストじゃないよ。",
+      "timestamp": "----------"
+    },
+    {
+      "id": "475ab3b2-2cc6-4ca1-ba9b-b57a66f087a7",
+      "userid": "guest",
+      "username": "GUEST",
+      "content": "proximaなら会社にばれないぞ！",
+      "timestamp": "----------"
+    },
+    {
+      "id": "092d8e2e-be88-473c-9465-5d293f3dead5",
+      "userid": "guest",
+      "username": "GUEST",
+      "content": "タシカニ！匿名掲示板の完成だ！！",
+      "timestamp": "----------"
+    },
+    {
+      "id": "d4a4b92a-7708-4aa1-bd81-4ceb596cd08d",
+      "userid": "guest",
+      "username": "GUEST",
+      "content": "Test",
+      "timestamp": "----------"
+    },
+    {
+      "id": "ff637b1c-0c5e-4863-9ddb-a5fae8fe5f06",
+      "userid": "guest",
+      "username": "GUEST",
+      "content": "Hello!",
+      "timestamp": "----------"
+    },
+    {
+      "id": "094b327e-8c31-4bcf-bbd2-76f0d7ec6394",
+      "userid": "guest",
+      "username": "GUEST",
+      "content": "てすと！",
+      "timestamp": "----------"
+    }
+  ]
+}
